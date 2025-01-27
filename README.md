@@ -51,3 +51,7 @@ In summary, ISO 21434 is intended to accomplish the following:
 The first thing to do is to think in the same way as ISO/SAE communicates: The structure of ISO/SAE 21434 does not represent an “execution sequence” of the individual topics.
 
 For the official structure of ISO/SAE 21434:2021, we have created a custom graphical visualization that illustrates the structure not in sequence, but along the development product lifecycle:
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-21434/blob/main/img/ISO21434_2.png?raw=true" alt="Sublime's custom image"/>
+</p>
