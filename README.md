@@ -10,6 +10,10 @@ An ongoing & curated collection of awesome software best practices and technique
 ## What is ISO 21434? 
 Like ISO 26262 and other aspects of international standards around automotive industry development, ISO 21434 works to protect vehicle and automotive security.
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-21434/blob/main/img/iso21434.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 It covers every single stage of the vehicle life cycle from design, secure engineering, and product development to decommissioning. Cybersecurity engineering applies to connected vehicles, electronic systems, software, and more. In addition, the automotive security standard gives developers a thorough road map for incorporating safety measures in development processes across the supply chain.
 
 - The purpose of the standard is to define a structural process to ensure cybersecurity is “designed-in” from the start. This allows developers to address cyber threats to the vehicle and its electrical and electronic components.
@@ -18,6 +22,10 @@ It covers every single stage of the vehicle life cycle from design, secure engin
 
 ## Why ISO 21434?
 Traditional automotive safety and cybersecurity standards have not adequately addressed increasing threats to cybersecurity for road vehicles. This led to OEMs, Tier 1, and Tier 2 suppliers formalizing their own approaches to address cybersecurity.
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-21434/blob/main/img/ISO21434_0.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ISO 21434 eliminates the need for individual approaches and provides a common framework to tackle cybersecurity for automotive production. It defines requirements for cybersecurity processes and develops a common language for understanding software security and cybersecurity risk management.
 
