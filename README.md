@@ -34,3 +34,9 @@ In summary, ISO 21434 is intended to accomplish the following:
         - Operations
         - Maintenance
         - Decommissioning
+
+## What is the structure of ISO/SAE 21434:2021?
+
+The first thing to do is to think in the same way as ISO/SAE communicates: The structure of ISO/SAE 21434 does not represent an “execution sequence” of the individual topics.
+
+For the official structure of ISO/SAE 21434:2021, we have created a custom graphical visualization that illustrates the structure not in sequence, but along the development product lifecycle:
