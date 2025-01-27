@@ -10,7 +10,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Why ISO 21434](#)
 - [What is the structure of ISO/SAE 21434:2021?](#)
 
-## What is ISO 21434? 
+## `What is ISO 21434?` 
 Like ISO 26262 and other aspects of international standards around automotive industry development, ISO 21434 works to protect vehicle and automotive security.
 
 <p align="center">
@@ -23,7 +23,7 @@ It covers every single stage of the vehicle life cycle from design, secure engin
 
 > OEMs, Tier 1, and Tier 2 suppliers must demonstrate due diligence in handling vehicle development in preventing cyberattacks. The goal is to reduce the potential for a successful attack and minimize potential losses by designing security-in from the start.
 
-## Why ISO 21434?
+## `Why ISO 21434?`
 Traditional automotive safety and cybersecurity standards have not adequately addressed increasing threats to cybersecurity for road vehicles. This led to OEMs, Tier 1, and Tier 2 suppliers formalizing their own approaches to address cybersecurity.
 
 <p align="center">
@@ -46,7 +46,7 @@ In summary, ISO 21434 is intended to accomplish the following:
         - Maintenance
         - Decommissioning
 
-## What is the structure of ISO/SAE 21434:2021?
+## `What is the structure of ISO/SAE 21434:2021?`
 
 The first thing to do is to think in the same way as ISO/SAE communicates: The structure of ISO/SAE 21434 does not represent an “execution sequence” of the individual topics.
 
