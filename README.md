@@ -23,14 +23,14 @@ ISO 21434 eliminates the need for individual approaches and provides a common fr
 
 In summary, ISO 21434 is intended to accomplish the following:
 
-    Define a structural process for cybersecurity in design phases.
-    Establish and maintain a consistent framework for cybersecurity globally.
-    Provide a threat-informed approach to guide security controls.
-    Adopt and apply a risk-based approach.
-    Provide guidance for developing a Cybersecurity Management System (CSMS) for vehicles.
-    Identify guidelines for cybersecurity across the vehicle life cycle.
-        Design and engineering
-        Production
-        Operations
-        Maintenance
-        Decommissioning
+    - Define a structural process for cybersecurity in design phases.
+    - Establish and maintain a consistent framework for cybersecurity globally.
+    - Provide a threat-informed approach to guide security controls.
+    - Adopt and apply a risk-based approach.
+    - Provide guidance for developing a Cybersecurity Management System (CSMS) for vehicles.
+    - Identify guidelines for cybersecurity across the vehicle life cycle.
+        - Design and engineering
+        - Production
+        - Operations
+        - Maintenance
+        - Decommissioning
