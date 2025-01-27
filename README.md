@@ -17,3 +17,20 @@ It covers every single stage of the vehicle life cycle from design, secure engin
 > OEMs, Tier 1, and Tier 2 suppliers must demonstrate due diligence in handling vehicle development in preventing cyberattacks. The goal is to reduce the potential for a successful attack and minimize potential losses by designing security-in from the start.
 
 ## Why ISO 21434?
+Traditional automotive safety and cybersecurity standards have not adequately addressed increasing threats to cybersecurity for road vehicles. This led to OEMs, Tier 1, and Tier 2 suppliers formalizing their own approaches to address cybersecurity.
+
+ISO 21434 eliminates the need for individual approaches and provides a common framework to tackle cybersecurity for automotive production. It defines requirements for cybersecurity processes and develops a common language for understanding software security and cybersecurity risk management.
+
+In summary, ISO 21434 is intended to accomplish the following:
+
+    Define a structural process for cybersecurity in design phases.
+    Establish and maintain a consistent framework for cybersecurity globally.
+    Provide a threat-informed approach to guide security controls.
+    Adopt and apply a risk-based approach.
+    Provide guidance for developing a Cybersecurity Management System (CSMS) for vehicles.
+    Identify guidelines for cybersecurity across the vehicle life cycle.
+        Design and engineering
+        Production
+        Operations
+        Maintenance
+        Decommissioning
